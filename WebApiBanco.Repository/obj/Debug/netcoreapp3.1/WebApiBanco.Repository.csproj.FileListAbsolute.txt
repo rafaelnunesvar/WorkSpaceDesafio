@@ -1,0 +1,10 @@
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\bin\Debug\netcoreapp3.1\WebApiBanco.Repository.deps.json
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\bin\Debug\netcoreapp3.1\WebApiBanco.Repository.dll
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\bin\Debug\netcoreapp3.1\WebApiBanco.Repository.pdb
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\obj\Debug\netcoreapp3.1\WebApiBanco.Repository.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\obj\Debug\netcoreapp3.1\WebApiBanco.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\obj\Debug\netcoreapp3.1\WebApiBanco.Repository.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\obj\Debug\netcoreapp3.1\WebApiBanco.Repository.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\obj\Debug\netcoreapp3.1\WebApiBanco.Repository.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\obj\Debug\netcoreapp3.1\WebApiBanco.Repository.dll
+C:\Users\pedro\OneDrive\Documentos\VAR\WorkSpacedesafio\WebApiBanco.Repository\obj\Debug\netcoreapp3.1\WebApiBanco.Repository.pdb
